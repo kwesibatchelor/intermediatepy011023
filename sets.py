@@ -6,3 +6,6 @@ print(type(myset2))
 
 myset3 = set()
 print(type(myset3)) 
+
+myset4 = set("Hello")
+print(myset4)
